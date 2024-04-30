@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "input": "^1.0.1",
+    "telegraf": "^4.16.3",
+    "telegram": "^2.20.2"
+  },
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "telegram bot summarize your channels",
+  "main": "main.js",
+  "repository": "https://github.com/pacho51/TelBot.git",
+  "author": "pavel.develop@gmail.com",
+  "license": "MIT",
+  "private": false
+}
